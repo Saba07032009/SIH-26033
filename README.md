@@ -109,15 +109,24 @@ Environmental: Routing ripe produce to local processors prevents massive post-ha
 ## Research and References
 Government Reports & Public Platforms:
 
-Ministry of Food Processing Industries (MoFPI) – PM Formalisation of Micro Food Processing Enterprises (PMFME) Scheme at mofpi.gov.in.
+1. Ministry of Food Processing Industries (MoFPI) – PM Formalisation of Micro Food Processing Enterprises (PMFME) Scheme
 
-e-NAM (National Agriculture Market) – Live mandi commodity price benchmarks at .
+https://www.mofpi.gov.in/schemes/pmfme
 
-Open Network for Digital Commerce (ONDC) – Open agricultural commerce specifications at ondc.org.
+2. e-NAM (National Agriculture Market) – Live Mandi Commodity Price Information
 
-Technical & Academic Sources:
+https://www.enam.gov.in/web/dashboard/live_price
 
-Salinas, D., Flunkert, V., & Gasthaus, J. (2020) – DeepAR: Probabilistic Forecasting with Autoregressive Recurrent Networks, International Journal of Forecasting.
+3. Open Network for Digital Commerce (ONDC) – Official Technical Documentation and Protocol Specifications
 
-jsprit Routing Toolkit – Open-Source Java Vehicle Routing & Pickup-Delivery Solver at github.com.
+https://github.com/ONDC-Official/ONDC-Protocol-Specs
 
+Official website: https://ondc.org
+Technical & Academic Sources
+4. Salinas, D., Flunkert, V., & Gasthaus, J. (2020). DeepAR: Probabilistic Forecasting with Autoregressive Recurrent Networks. International Journal of Forecasting, 36(3), 1181–1191.
+
+https://doi.org/10.1016/j.ijforecast.2019.07.001
+
+5. jsprit Routing Toolkit – Open-Source Java Vehicle Routing and Pickup-Delivery Solver
+
+https://github.com/graphhopper/jsprit
