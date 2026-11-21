@@ -123,6 +123,8 @@ https://github.com/ONDC-Official/ONDC-Protocol-Specs
 
 Official website: https://ondc.org
 Technical & Academic Sources
+
+
 4. Salinas, D., Flunkert, V., & Gasthaus, J. (2020). DeepAR: Probabilistic Forecasting with Autoregressive Recurrent Networks. International Journal of Forecasting, 36(3), 1181–1191.
 
 https://doi.org/10.1016/j.ijforecast.2019.07.001
